@@ -5,9 +5,8 @@ itsdangerous==1.1.0
 Jinja2==2.10.1
 joblib==0.16.0
 MarkupSafe==1.1.1
-nmpy==1.19.2
+numpy==1.19.2
 Werkzeug==0.15.5
-numpy==1.20.3
 scipy>=0.15.1
 scikit-learn>=0.18
 sklearn==0.0
